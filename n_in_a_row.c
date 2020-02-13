@@ -4,8 +4,8 @@
 // Posting or sharing this file is prohibited, including any changes/additions.
 //
 ////////////////////////////////////////////////////////////////////////////////
-// Main File:        (name of file with main function)
-// This File:        (name of this file)
+// Main File:        n_in_a_row.c
+// This File:        n_in_a_row.c
 // Other Files:      (name of all other files if any)
 // Semester:         CS 354 Spring 2020
 //
